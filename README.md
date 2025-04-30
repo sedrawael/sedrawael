@@ -1,4 +1,4 @@
-![Header Image]([https://www.pinterest.com/pin/32440059823149600/))
+![Header Image]([https://pin.it/1YoA6HLYc]))
 
 # 💫 About Me:
 Hi 👋, I'm **Sedrah Wael**, a Full-Stack Web & Mobile Developer and a graduate from Orange Coding Academy. I'm strongly enthusiastic about modern technologies and computer systems. I specialize in developing both websites and mobile applications using technologies like Laravel, ReactJS, and Flutter. With a solid background in JavaScript, PHP, and Dart, I’ve built and contributed to several projects that reflect my ability to adapt, learn, and solve real-world problems. I'm passionate about clean code, intuitive UI, and creative solutions.
